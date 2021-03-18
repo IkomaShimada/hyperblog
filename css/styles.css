@@ -18,6 +18,11 @@ body {
 
 }
 
+#cabecera img {
+    width: 20px;
+    vertical-align: middle;
+}
+
 #cabecera #tagline {
     margin:0 0 0 1em;
     font-weight: normal;
